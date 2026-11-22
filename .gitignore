@@ -1,0 +1,16 @@
+# Downloaded datasets (re-download from the notebooks)
+PlantDoc-Dataset/
+tomato_data/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Model checkpoints
+*.pth
+*.pt
+
+# macOS
+.DS_Store
